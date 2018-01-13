@@ -1,3 +1,6 @@
 #!/usr/bin/python3
 
-print("God World")
+def main(msg):
+    print(msg)
+
+main("God People")
